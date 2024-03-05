@@ -1,0 +1,5 @@
+﻿1,Aeroportul International Henri Coanda,40
+2,Aeroportul Avram Iancu Cluj,21
+3,Aeroportul Iasi,12
+4,Aeroportul Timisoara Traian Vuia,22
+5,Aeroportul International George Enescu Bacau,3
