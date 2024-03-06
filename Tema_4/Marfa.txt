@@ -1,0 +1,68 @@
+10
+Smartphone Samsung Galaxy S21
+999.99
+5
+3
+4.5
+4.0
+5.0
+Laptop ASUS ZenBook 14
+1199.99
+4
+2
+4.5
+5.0
+Televizor LED Sony Bravia 55 inch
+799.99
+3
+3
+5.0
+4.5
+4.0
+Consola PlayStation 5
+499.99
+7
+4
+5.0
+5.0
+4.5
+5.0
+Tableta Apple iPad Pro
+1099.99
+6
+2
+5.0
+4.5
+Camera foto Canon EOS R6
+2499.99
+2
+3
+5.0
+4.5
+4.0
+Smartwatch Fitbit Versa 3
+229.99
+8
+3
+4.0
+4.5
+5.0
+Boxa portabila JBL Flip 5
+119.99
+10
+3
+4.5
+5.0
+4.0
+Cafetiera Philips Series 2200
+299.99
+4
+2
+5.0
+4.5
+Aspirator robot Xiaomi Roborock S5
+399.99
+5
+2
+4.5
+5.0
