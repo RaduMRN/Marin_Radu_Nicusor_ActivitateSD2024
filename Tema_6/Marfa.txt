@@ -1,0 +1,5 @@
+Televizor,1500,10
+Frigider,2500,5
+Masina de spalat,2000,8
+Aragaz,1200,12
+Mixer,100,20
