@@ -1,0 +1,6 @@
+Henri Coanda,1,12,12889.89
+U Cluj,2,4,8999.12
+International Paris,3,21,20120.77
+Universitatea Craiova,4,3,2014.12
+Bacau,5,2,1012.12
+Kogalniceanu,6,4,1290.99
